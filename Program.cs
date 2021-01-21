@@ -6,7 +6,10 @@ namespace boleto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string nome;
+            nome = Console.ReadLine();
+            Console.WriteLine("Seja bem vindo" + nome);
+            
         }
     }
 }
