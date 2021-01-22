@@ -6,20 +6,34 @@ namespace boleto
     {
         static void Main(string[] args)
         {
-            Console.Clear();
             Console.WriteLine("Seja bem vindo ao sistema de geração de Boletos!");
+            Console.WriteLine();
 
             //instanciar empresa com valores
             empresa emp = new empresa();
-            emp.nome = "XY - Grupo XY";
-            emp.endereco = "Rua Silva, Centro";
-            emp.cidade = "Ibimirim";
-            emp.cep = "56580-000";
-            emp.uf = "PE";
-            emp.cnpj = "123.123.456/0001-58";
-            emp.ins = "12345678-9";
-            emp.email = "xygrupo@gmail.com";
-            emp.fone = "(87) 99999-8546";
+            Console.WriteLine("Informe os dados da empresa.");
+
+            Console.Write("Nome da Empresa: ");
+            emp.nome = Console.ReadLine();
+            Console.Write("Endereço: ");
+            emp.endereco = Console.ReadLine();
+            Console.Write("Cidade: ");
+            emp.cidade = Console.ReadLine();
+            Console.Write("CEP: ");
+            emp.cep = Console.ReadLine();
+            Console.Write("UF: ");
+            emp.uf = Console.ReadLine();
+            Console.Write("CNPJ: ");
+            emp.cnpj = Console.ReadLine();
+            Console.Write("Inscrição Estadual: ");
+            emp.ins = Console.ReadLine();
+            Console.Write("Email: ");
+            emp.email = Console.ReadLine();
+            Console.Write("Fone: ");
+            emp.fone = Console.ReadLine();
+
+            Console.WriteLine();
+            Console.WriteLine("Informe os dados do clinte.");
 
             string cliente;
             int qtdParcela;
