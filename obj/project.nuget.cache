@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0dDWbqf+CYMOP7TSPhm4KJ4pLfuOPA6/TH/nSQujrlI3iZFWGtPZIs20Xk7SgOHQ8t8jyv0r7DCcbY3/esZyQ==",
+  "dgSpecHash": "MF9qae/K2xbstFZ0KwJFeL283jlpDK8wV9PmMqL1mR6x8QEGX9f//3NHmRndsCLpESmkzf1j58TntKVciA0mYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\boleto.csproj",
+  "projectFilePath": "C:\\Users\\elian\\MeusProjetos\\boleto\\boleto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

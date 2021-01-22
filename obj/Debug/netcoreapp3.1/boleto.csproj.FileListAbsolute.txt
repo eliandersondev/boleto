@@ -11,3 +11,16 @@ C:\Users\elian\Documents\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.cspr
 C:\Users\elian\Documents\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.dll
 C:\Users\elian\Documents\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.pdb
 C:\Users\elian\Documents\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.genruntimeconfig.cache
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.exe
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.deps.json
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.runtimeconfig.json
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.runtimeconfig.dev.json
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.dll
+C:\Users\elian\MeusProjetos\boleto\bin\Debug\netcoreapp3.1\boleto.pdb
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.csprojAssemblyReference.cache
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.AssemblyInfoInputs.cache
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.AssemblyInfo.cs
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.csproj.CoreCompileInputs.cache
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.dll
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.pdb
+C:\Users\elian\MeusProjetos\boleto\obj\Debug\netcoreapp3.1\boleto.genruntimeconfig.cache

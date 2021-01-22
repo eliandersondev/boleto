@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\boleto.csproj": {}
+    "C:\\Users\\elian\\MeusProjetos\\boleto\\boleto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\boleto.csproj": {
+    "C:\\Users\\elian\\MeusProjetos\\boleto\\boleto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\boleto.csproj",
+        "projectUniqueName": "C:\\Users\\elian\\MeusProjetos\\boleto\\boleto.csproj",
         "projectName": "boleto",
-        "projectPath": "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\boleto.csproj",
+        "projectPath": "C:\\Users\\elian\\MeusProjetos\\boleto\\boleto.csproj",
         "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elian\\Documents\\MeusProjetos\\boleto\\obj\\",
+        "outputPath": "C:\\Users\\elian\\MeusProjetos\\boleto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config"
